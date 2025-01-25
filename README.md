@@ -4,4 +4,4 @@ Old dotfiles was 3 years old and no longer maintained and as such a newer and be
 
 ## Neovim config
 
-![Homepage of Neovim.](./assets/Screenshot 2025-01-25 215027)
+![Homepage of Neovim.](/assets/homepage.png)
